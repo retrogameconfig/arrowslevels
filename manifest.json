@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "levels": [
+    {
+      "id": "Level_5",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_5.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    },
+    {
+      "id": "Level_6",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_6.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    },
+    {
+      "id": "Level_7",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_7.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    },
+    {
+      "id": "Level_8",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_8.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    },
+    {
+      "id": "Level_9",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_9.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    },
+    {
+      "id": "Level_10",
+      "url": "https://raw.githubusercontent.com/retrogameconfig/arrowslevels/refs/heads/main/Level_10.json",
+      "sha256": "",
+      "sizeBytes": 0,
+      "minClientVersion": 0
+    }
+  ]
+}
